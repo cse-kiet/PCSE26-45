@@ -1,5 +1,5 @@
-LocaTrack: Prophet-Based Time-Series Forecasting
-for Crime Trend Prediction
+**LocaTrack: Prophet-Based Time-Series Forecasting
+for Crime Trend Prediction**
 
 Due to fast urban growth and movement of people
 toward cities, along with changes in crime trends, crime forecasting has recently become a significant application for lawenforcement agencies. The aim of this study is to find out whether
